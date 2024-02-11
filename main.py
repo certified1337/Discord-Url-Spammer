@@ -70,7 +70,7 @@ def webhook(value):
 def snipe(value):
     global reqs, proxy_position, snipped
     key, value = value
-    url = f"https://canary.discord.com/api/v7/guilds/{value[1]}/vanity-url"
+    url = f"https://canary.discord.com/api/v9/guilds/{value[1]}/vanity-url"
     headers = {
         "Accept": "*/*",
         "Authorization": get_token(),
