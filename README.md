@@ -1,6 +1,6 @@
 # Discord-Url-Spammer
 ## Pictures:
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="80%" src="https://cdn.discordapp.com/attachments/1206303755986018354/1206303781982314506/image.png?ex=65db84f1&is=65c90ff1&hm=926f9fe7a933bea52155a32e1f407c17b2908e07a31e009cea22e42cc422e036&"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="80%" src="[url=https://hizliresim.com/7hekvak][img]https://i.hizliresim.com/7hekvak.png[/img][/url]&"></img>
 
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="60%" src="https://cdn.discordapp.com/attachments/1206303755986018354/1206303782246424596/image.png?ex=65db84f1&is=65c90ff1&hm=778e7ed514ccb0e0668e6d97bc100442133ce348ea072dbb9300022bb86caeec&"></img>
 
