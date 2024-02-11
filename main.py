@@ -103,7 +103,7 @@ def snipe(value):
 
         if json_response.get("code") == value[0]:
             print("[{}] Sniper Done || [{}]".format(get_time(), value[0]))
-            webhook("**https://canary.discord.gg/{}\n\nAttempts : `{}`\n\n||@everyone||**".format(value[0], {reqs}))
+            webhook("**https://discord.gg/{}\n\nAttempts : `{}`\n\n||@everyone||**".format(value[0], {reqs}))
             if snipe_enabled:
                 os._exit(0)
         else:
