@@ -11,7 +11,9 @@ import sys
 if os.name == 'nt':
     import ctypes
 
-config = json.load(open("config.json", encoding="utf-8"))
+config_line = os.path.join('cfg', 'settings.json')
+
+config = json.load(open(config_line, encoding="utf-8"))
 
 def clear(): 
     os.system('cls' if os.name =='nt' else 'clear')
@@ -32,9 +34,10 @@ clear()
 
 colorama_init()
 
-tokens = open('tokens.txt', 'r').read().replace('\r', '').split('\n')
+token_line = os.path.join('cfg', 'tokens.txt')
+tokens = open(token_line, 'r').read().replace('\r', '').split('\n')
 
-with open('config.json', 'r') as config_file:
+with open(config_line, 'r') as config_file:
     config_data = json.load(config_file)
 
 webhook_url = config_data['webhook_url']
@@ -45,6 +48,7 @@ max_threads = config_data['threads']
 snipe_enabled = config_data.get('snipe_enabled', False)
 
 if use_proxy:
+    config_line = os.path.join('cfg', 'proxies.txt')
     proxies = open('proxies.txt', 'r').read().replace('\r', '').split('\n')
     proxy_position = 0
 else:
