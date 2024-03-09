@@ -1,8 +1,8 @@
 # Discord-Url-Spammer
 ## Pictures:
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="80%" src="https://cdn.discordapp.com/attachments/1206303755986018354/1206303781982314506/image.png?ex=65db84f1&is=65c90ff1&hm=926f9fe7a933bea52155a32e1f407c17b2908e07a31e009cea22e42cc422e036&"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="80%" src="https://cdn.discordapp.com/attachments/1206303755986018354/1216112727848911049/image.png?ex=65ff343c&is=65ecbf3c&hm=a6a222856edec2fd8a10aec84bddcb71862db325153122c32492bd2e67d1146c&"></img>
 
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="60%" src="https://cdn.discordapp.com/attachments/1206303755986018354/1206303782246424596/image.png?ex=65db84f1&is=65c90ff1&hm=778e7ed514ccb0e0668e6d97bc100442133ce348ea072dbb9300022bb86caeec&"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="60%" src="https://cdn.discordapp.com/attachments/1206303755986018354/1216112885953200188/image.png?ex=65ff3462&is=65ecbf62&hm=745c4d35852864715399b526e436201251c58e284fa1176e33272f7fbed9a41f&"></img>
 
 
 ## Setup:
